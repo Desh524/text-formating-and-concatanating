@@ -1,0 +1,10 @@
+C:\Users\Deshan\source\repos\example form\example form\bin\Debug\example form.exe.config
+C:\Users\Deshan\source\repos\example form\example form\bin\Debug\example form.exe
+C:\Users\Deshan\source\repos\example form\example form\bin\Debug\example form.pdb
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example form.csprojAssemblyReference.cache
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example_form.Form1.resources
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example_form.Properties.Resources.resources
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example form.csproj.GenerateResource.cache
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example form.csproj.CoreCompileInputs.cache
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example form.exe
+C:\Users\Deshan\source\repos\example form\example form\obj\Debug\example form.pdb
